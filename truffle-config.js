@@ -18,7 +18,7 @@
  *
  */
 const HDWalletProvider = require("@truffle/hdwallet-provider");
-const mnemonic = "";
+const mnemonic = "scout outdoor empower unaware have stomach wool cupboard divert execute child link";
 
 //
 // const fs = require('fs');
